@@ -1,0 +1,24 @@
+{
+  "name": "my-amazon",
+  "version": "1.0.0",
+  "description": "A node- and mysql-based app that runs an Amazon-esque storefront on the command line.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulaperoutka/My-Amazon.git"
+  },
+  "author": "Paula Peroutka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulaperoutka/My-Amazon/issues"
+  },
+  "homepage": "https://github.com/paulaperoutka/My-Amazon#readme"
+}
